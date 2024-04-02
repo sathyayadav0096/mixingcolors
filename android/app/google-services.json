@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022221267332",
+    "project_id": "mixingcolors",
+    "storage_bucket": "mixingcolors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022221267332:android:68971d703900c803892dd1",
+        "android_client_info": {
+          "package_name": "com.example.mixingcolors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJkXe26ftVbscqGsAHmIsR3R156DUc1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
