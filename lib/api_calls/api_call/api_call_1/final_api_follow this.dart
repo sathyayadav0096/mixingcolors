@@ -24,6 +24,10 @@ class _ScreenSecondState extends State<ScreenSecond> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.green,
+        leading: IconButton(onPressed: () {}, icon: Icon(Icons.arrow_back)),
+      ),
       body: FutureBuilder(
         future: getDataTwo(),
         builder: (context, snapshot) {
