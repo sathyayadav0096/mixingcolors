@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../PERSONL_APP/app_bar_screen.dart';
 
 class checktest extends StatelessWidget {
   @override
@@ -33,7 +32,6 @@ class checktest extends StatelessWidget {
           ),
         ],
       ),
-      drawer: Drawer(child: DrawScreen()),
     );
   }
 }

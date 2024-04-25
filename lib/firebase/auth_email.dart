@@ -25,7 +25,7 @@ class _AuthScreenStateState extends State<AuthScreenState> {
                   Container(
                     height: 250,
                     width: 300,
-                    child: Image.asset('assets/pic one.jpg'),
+                    child: Image.asset('assets/pic_one.jpg'),
                   ),
                   const SizedBox(height: 25),
                   Padding(
